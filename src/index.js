@@ -12,7 +12,7 @@ const Hero_Content = "Welcome to my portfolio! I'm Suraj Gupta, a 3rd year Compu
      image: images1,
      discription:"Implemented a full stack website backendallows users to share file of size upto 5gb for a faste upload and download implemented it with AWS s3 solution",
      technologiesUsed: ['HTML' , "CSS" ,"JS" , "Node js" , "AWS-S3" , "Mongodb"],
-     link : "https://github.com/surajgupt01/streamkrate"
+     link : "https://github.com/surajgupt01/streamkrate";
 
     },
 
@@ -20,7 +20,7 @@ const Hero_Content = "Welcome to my portfolio! I'm Suraj Gupta, a 3rd year Compu
         image: images2,
         discription:"Implented a recommendation sytem for recommending similar type of restaurants in a given are to judge the competiton and plan your business strategy accoding to it",
         technologiesUsed: ['Python' , "Numpy" ,"Pandas" , "Scikit-library"],
-        link : "https://docs.google.com/document/d/1lrJEjSk08xmTUIJCjgg_P_vn1pNUeQ9r/edit"
+        link : "https://docs.google.com/document/d/1lrJEjSk08xmTUIJCjgg_P_vn1pNUeQ9r/edit";
    
        },
 
